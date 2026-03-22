@@ -70,7 +70,7 @@ All values below use **Function Code 03** and are **Float32** (2 registers each)
 To clear the total energy count (Active and Reverse) to zero:
 - **Target**: Write `1` to Register `0x0002`.
 - **Method**: Use **Function Code 16** (Write Multiple Registers).
-- **Script**: `reset_meter_modbus.py`.
+- **Script**: `ddsu666_reset_meter_modbus.py`.
 
 ### Change Modbus ID:
 - **Target**: Register `0x0006`.

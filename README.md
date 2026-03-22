@@ -22,7 +22,7 @@ The Chinese version of the **DDSU666** predominantly uses the DL/T 645-2007 prot
    The tool will scan for your meter and prompt you to switch modes.
 2. **Reset Energy**:
    ```powershell
-   python reset_meter_modbus.py
+   python ddsu666_reset_meter_modbus.py
    ```
 
 ## Documentation
@@ -63,7 +63,7 @@ Special thanks to **Ahchor** for providing the critical research for DDSU666 pro
    工具將掃描您的電錶並提示您切換模式。
 2. **重置電量**：
    ```powershell
-   python reset_meter_modbus.py
+   python ddsu666_reset_meter_modbus.py
    ```
 
 ## 項目文檔
