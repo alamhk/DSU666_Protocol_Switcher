@@ -61,7 +61,7 @@ def main():
         return
 
     # 1. Use broadcast to get address and initial voltage
-    print("Connecting to DSU666 (DL/T 645-2007)...")
+    print("Connecting to DDSU666 (DL/T 645-2007)...")
     broadcast_addr = bytes([0xAA] * 6)
     
     # Phase A Voltage ID: 02010100
