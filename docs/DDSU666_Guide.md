@@ -1,6 +1,9 @@
-# Chint DSU666 Meter Management Guide
+# Chint DDSU666 Meter Management Guide
 
-This guide details how to interact with the Chint DSU666 single-phase smart meter, from initial DL/T 645 reading to Modbus RTU switching and advanced operations.
+This guide details how to interact with the Chint **DDSU666** single-phase smart meter, from initial DL/T 645 reading to Modbus RTU switching and advanced operations.
+
+> [!WARNING]
+> **Compatibility Note**: This tool and guide have not been tested with any specific brands of PV Inverters. Users are advised to perform their own research and testing before integration with solar energy systems.
 
 ---
 
